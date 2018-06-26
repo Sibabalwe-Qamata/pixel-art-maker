@@ -16,8 +16,19 @@ $('#sizePicker').submit(function (event){
     makeGrid(height, width);
 })
 
-function makeGrid() {
-
-// Your code goes here!
-
+function makeGrid(a,b) {
+ $('tr').remove();
+    for(var k = 0; k <= a; k++)
+    {
+     $('#pixelCanvas').append('<tr id=table'+k +'></tr>');
+     for(var m =0 ; m <= b; m++){
+        $('#table' +k).append('<td> </td>');
+     }
+    }
+    $('td').click(function (event)
+     { 
+        color = $('#colorPicker').val();
+        $(event.target).css('background-color', color);
+      });
+   
 }
