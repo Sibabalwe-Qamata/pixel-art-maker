@@ -34,6 +34,8 @@
     margin: 0 auto;
     padding: 0 20px;
     box-sizing: border-box;
+
+   
 }
 
 .column,
@@ -203,8 +205,10 @@ body {
     text-align: center;
     width: 800px;
     margin: 0px auto;
-    background-color: #cdcdcd;
-    background: url(https://static.pexels.com/photos/162616/coffee-work-desk-mug-keyboard-162616.jpeg);
+    background-color:white;
+
+    /*background: url(https://static.pexels.com/photos/162616/coffee-work-desk-mug-keyboard-162616.jpeg);*/
+   
 }
 
 
