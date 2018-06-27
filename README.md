@@ -8,8 +8,8 @@
 
 
 ## Instructions of the Pixel Art Maker Project: 
- - Add or select the Grid Height and Weight.
- - Press the submit button after entering the Grid height and weight.
+ - Add or select the Grid Height and Width.
+ - Press the submit button after entering the Grid height and Width.
  - Pick a color from color grid. 
  - Click on the cells to add the color or to start drawing the canvas. 
 
