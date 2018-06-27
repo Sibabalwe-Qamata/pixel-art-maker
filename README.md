@@ -4,13 +4,18 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Project Link](#projectLink)
 
-## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+##Instructions of the Pixel Art Maker Project: 
+ - Add or select the Grid Height and Weight.
+ - Press the submit button after entering the Grid height and weight.
+ - Pick a color from color grid. 
+ - Click on the cells to add the color or to start drawing the canvas. 
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Project Deployed Link (To view Pixel Art Maker):
+- https://sibabalwe-qamata.github.io/pixel-art-maker/
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+
