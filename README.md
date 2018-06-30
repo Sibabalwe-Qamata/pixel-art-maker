@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Project Link](#projectLink)
-* [Project Screen] (#screenshot)
+* [Project Screen](#screenshot)
 
 
 ## Instructions of the Pixel Art Maker Project: 
