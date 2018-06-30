@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Project Link](#projectLink)
+* [Project Screen] (#screenshot)
 
 
 ## Instructions of the Pixel Art Maker Project: 
@@ -15,6 +16,6 @@
 ## Project Deployed Link (To view Pixel Art Maker):
 - https://sibabalwe-qamata.github.io/pixel-art-maker/
 
-
-
+## Project Screenshot
+<img width="721" alt="pixelartmaker" src="https://user-images.githubusercontent.com/20126197/42124120-78f9ac4a-7c5d-11e8-890c-4cbafdd7e7a2.png">
 
