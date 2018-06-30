@@ -18,10 +18,10 @@ $('#sizePicker').submit(function (event){
 
 function makeGrid(a,b) {
  $('tr').remove();
-    for(let k = 0; k <= a; k++)
+    for(let k = 1; k <= a; k++)
     {
      $('#pixelCanvas').append('<tr id=table'+k +'></tr>');
-     for(let m =0 ; m <= b; m++){
+     for(let m =1 ; m <= b; m++){
         $('#table' +k).append('<td> </td>');
      }
     }
